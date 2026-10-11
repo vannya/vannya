@@ -12,4 +12,4 @@ I also spend a lot of time working across APIs and service integrations, testing
 
 ### 🔗 Elsewhere
 
-You can find more about my work and experience on my [website](https://vantabbert.com) or connect with me on [LinkedIn](YOUR_LINKEDIN_URL).
+You can find more about my work and experience on my [website](https://vantabbert.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vannya).

@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Van.
 
-<!--
-**vannya/vannya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a principal software engineer and technical lead with a strong frontend background. I build and modernize applications with complex workflows, system integrations, legacy constraints, and real people depending on them.
 
-Here are some ideas to get you started:
+Most of my day-to-day development happens in enterprise environments, so much of the code I work on isn't available in public repositories here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I work with
+
+React · TypeScript · JavaScript · .NET / C# · Azure
+
+I also spend a lot of time working across APIs and service integrations, testing and monitoring production applications, and helping other engineers work through technical problems.
+
+### 🔗 Elsewhere
+
+You can find more about my work and experience on my [website](https://vantabbert.com) or connect with me on [LinkedIn](YOUR_LINKEDIN_URL).
